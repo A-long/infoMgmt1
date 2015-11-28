@@ -7,6 +7,7 @@ import java.util.List;
 
 public class StopWords {
 
+	//checking pushkljhadwekljhadwlkjhadwkljhawdekljhadw
 	ArrayList<String> stopwords =  new ArrayList<String>();
 	String file;
 
